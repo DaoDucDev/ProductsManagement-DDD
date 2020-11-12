@@ -1,18 +1,17 @@
 ﻿using Application.Commands;
+using Application.Commands.ProductCommands;
+using Application.Models;
 using Domain.AggregateModels.ProductAggregate;
 using Domain.SeedWork;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using MediatR;
 using System.Threading;
 using System.Threading.Tasks;
 
 namespace Application.Products.CreateProduct
 {
-    public class CreateProductCommandHandler : ICommandHandler<CreateProductCommand, ProductDto>
+    public class CreateProductCommandHandler : IRequestHandler<CreateProductCommand, ProductDto>
     {
         private readonly IProductRepository _productRepository;
-        //private readonly IProductUniquenessChecker _productUniquenessChecker;
         private readonly IUnitOfWork _unitOfWork;
 
         public CreateProductCommandHandler(IProductRepository productRepository, IUnitOfWork unitOfWork)

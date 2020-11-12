@@ -715,11 +715,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Domain\\Domain.csproj",
+      "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\nasa1\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Domain\\obj\\",
+      "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -739,8 +739,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\Shared.csproj": {
-              "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\Shared.csproj"
+            "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\Shared.csproj": {
+              "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\Shared.csproj"
             }
           }
         }

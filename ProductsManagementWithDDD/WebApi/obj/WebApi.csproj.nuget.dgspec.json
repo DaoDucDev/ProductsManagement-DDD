@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\WebApi\\WebApi.csproj": {}
+    "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Application\\Application.csproj": {
+    "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Application\\Application.csproj",
+        "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\nasa1\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Application\\obj\\",
+        "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Domain\\Domain.csproj"
+              "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Domain\\Domain.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Domain\\Domain.csproj": {
+    "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\nasa1\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Domain\\obj\\",
+        "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -102,8 +102,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\Shared.csproj"
+              "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\Shared.csproj"
               }
             }
           }
@@ -136,14 +136,14 @@
         }
       }
     },
-    "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\nasa1\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Infrastructure\\obj\\",
+        "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -163,11 +163,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Domain\\Domain.csproj"
+              "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Domain\\Domain.csproj"
               },
-              "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\Shared.csproj"
+              "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\Shared.csproj"
               }
             }
           }
@@ -210,14 +210,14 @@
         }
       }
     },
-    "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\Shared.csproj": {
+    "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\Shared.csproj",
+        "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\Shared.csproj",
+        "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\nasa1\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\obj\\",
+        "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -277,14 +277,14 @@
         }
       }
     },
-    "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\WebApi\\WebApi.csproj": {
+    "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\WebApi\\WebApi.csproj",
+        "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\nasa1\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\WebApi\\obj\\",
+        "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -304,11 +304,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Application\\Application.csproj": {
-                "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Application\\Application.csproj"
+              "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Application\\Application.csproj": {
+                "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Application\\Application.csproj"
               },
-              "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Infrastructure\\Infrastructure.csproj"
+              "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

@@ -1,11 +1,13 @@
 ﻿using Application.Commands;
+using Application.Models;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Application.Products.CreateProduct
+namespace Application.Commands.ProductCommands
 {
-    public class CreateProductCommand: CommandBase<ProductDto>
+    public class CreateProductCommand: IRequest<ProductDto>
     {
         private string _productName;
 
@@ -38,6 +40,5 @@ namespace Application.Products.CreateProduct
             Price = price;
         }
 
-        public bool? Verified { get; private set; }
     }
 }

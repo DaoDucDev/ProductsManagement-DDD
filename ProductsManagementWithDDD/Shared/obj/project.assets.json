@@ -697,11 +697,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\Shared.csproj",
+      "projectUniqueName": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\Shared.csproj",
+      "projectPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\nasa1\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\obj\\",
+      "outputPath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

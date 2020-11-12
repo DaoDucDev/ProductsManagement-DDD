@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTxZPowK+/ILP/nq+IoTKM06WNMaWaWCaxd++pms0LT/cXmbFM1bJgEryfOh0LFWHqGL3xM3WDG5oRWM9E/GWw==",
+  "dgSpecHash": "ziL35l2u72zPjRdoLgnEyMWaLWWKIo/dMlZOodS8ok6GNfrNpdckdVwfRUg4uVH/BOsGEg8h6zb0ZtFS57rHbA==",
   "success": true,
-  "projectFilePath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Shared\\Shared.csproj",
+  "projectFilePath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Shared\\Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nasa1\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\nasa1\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

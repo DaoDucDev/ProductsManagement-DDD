@@ -9,5 +9,6 @@ namespace Shared.SeedWork
     {
         void Add(T entity);
         Task<T> GetByIdAsync(Guid entityId);
+        //Task<T> GetSingleAsync(ISpecification<T> spec, string[] sorts = null);
     }
 }

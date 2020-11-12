@@ -1,8 +1,7 @@
-﻿using Application.Products;
+﻿using Application.Models;
 using MediatR;
-using System;
 using System.Collections.Generic;
-using System.Text;
+
 
 namespace Application.Queries.ProductQueries
 {

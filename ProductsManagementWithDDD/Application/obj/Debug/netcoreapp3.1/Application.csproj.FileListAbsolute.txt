@@ -26,3 +26,17 @@ D:\Learn\ASP .NET Core\Demo\ASP.NETCore\ProductsManagementWithDDD\Application\ob
 D:\Learn\ASP .NET Core\Demo\ASP.NETCore\ProductsManagementWithDDD\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
 D:\Learn\ASP .NET Core\Demo\ASP.NETCore\ProductsManagementWithDDD\Application\obj\Debug\netcoreapp3.1\Application.dll
 D:\Learn\ASP .NET Core\Demo\ASP.NETCore\ProductsManagementWithDDD\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\bin\Debug\netcoreapp3.1\Shared.dll
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\bin\Debug\netcoreapp3.1\Shared.pdb
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Application\obj\Debug\netcoreapp3.1\Application.pdb

@@ -1,4 +1,5 @@
-﻿using Application.Products;
+﻿
+using Application.Models;
 using Dapper;
 using MediatR;
 using System;

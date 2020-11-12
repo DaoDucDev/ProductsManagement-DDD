@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VJMWcTgo+W7VCrMDEpsLkfYGDw2G6gc2VG7GB35TcDFeeNizXcdGyyCvUsIxUEGfhMU9OOsbk+xGshjDulqCWw==",
+  "dgSpecHash": "g7PsKwXc1zB+7sl7S1SIsJPnI0PpZyn42ISw3gbRt0QBCQk1zPS7oHzqEo/nIj81vIazc6ese6JjJQAnj01/cA==",
   "success": true,
-  "projectFilePath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nasa1\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\nasa1\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",

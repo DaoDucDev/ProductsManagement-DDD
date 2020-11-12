@@ -8,7 +8,6 @@ namespace Domain.SeedWork
 {
     public interface IUnitOfWork: IDisposable
     {
-        //Task<int> CommitAsync(CancellationToken cancellationToken = default(CancellationToken));
         Task SaveChangesAsync(CancellationToken cancellationToken = default(CancellationToken));
     }
 }

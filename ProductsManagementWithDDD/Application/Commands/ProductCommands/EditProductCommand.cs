@@ -1,13 +1,12 @@
-﻿using System;
+﻿using MediatR;
+using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
-namespace Application.Products
+namespace Application.Commands.ProductCommands
 {
-    public class ProductDto
+    public class EditProductCommand: IRequest
     {
-
         private Guid _productId;
         public Guid ProductId
         {
@@ -39,5 +38,12 @@ namespace Application.Products
             set { _price = value; }
         }
 
+        public EditProductCommand(Guid productId, string productName, int quantity, double price)
+        {
+            ProductId = productId;
+            ProductName = productName;
+            Quantity = quantity;
+            Price = price;
+        }
     }
 }

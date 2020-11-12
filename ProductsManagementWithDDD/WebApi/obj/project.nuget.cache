@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jq8hlHti1JfS9UC/otAsii1KBk9OwJGmD/nyvoKbdHdvE9n6swXFpHb3h5NZxCO7x3W5BY97uh4KdbD3vFwzpw==",
+  "dgSpecHash": "3EeYUIsOCwrvHPSYEdWSLjj8LZcSiBRuzqAqnzztKt1rs+CMQJFykBcpefGihvLiFd9h9HRZYkgBcVBiVW1qaQ==",
   "success": true,
-  "projectFilePath": "D:\\Learn\\ASP .NET Core\\Demo\\ASP.NETCore\\ProductsManagementWithDDD\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\Learn\\ASP .NET Core\\Demo\\ProductsManagement-DDD\\ProductsManagementWithDDD\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nasa1\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\nasa1\\.nuget\\packages\\fluentvalidation\\9.2.0\\fluentvalidation.9.2.0.nupkg.sha512",

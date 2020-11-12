@@ -26,3 +26,17 @@ D:\Learn\ASP .NET Core\Demo\ASP.NETCore\ProductsManagementWithDDD\Infrastructure
 D:\Learn\ASP .NET Core\Demo\ASP.NETCore\ProductsManagementWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
 D:\Learn\ASP .NET Core\Demo\ASP.NETCore\ProductsManagementWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
 D:\Learn\ASP .NET Core\Demo\ASP.NETCore\ProductsManagementWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\bin\Debug\netcoreapp3.1\Shared.dll
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\bin\Debug\netcoreapp3.1\Shared.pdb
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Learn\ASP .NET Core\Demo\ProductsManagement-DDD\ProductsManagementWithDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
